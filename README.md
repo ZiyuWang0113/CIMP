@@ -21,7 +21,7 @@ Download or unzip, open "启动前端.bat" and "启动后端.bat". Do not put fo
 
 ![1](https://github.com/user-attachments/assets/ab49d35a-50c6-4626-954b-9a30d8a74708)
 
-![2](https://github.com/user-attachments/assets/425250ef-642a-4b66-b098-332d4c2bcf2d)
+![2](https://github.com/user-attachments/assets/793fb6da-54b4-4cf9-a9c9-7c28f86f242d)
 
 Frontend based on: [https://github.com/i-ku/cimp](https://gitee.com/i-6/cimp)
 
