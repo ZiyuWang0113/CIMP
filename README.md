@@ -1,5 +1,4 @@
 # Campus Information Management Platform
-
 Full stack server enables the publication and management of data such as campus student and teacher administrator accounts, notifications and announcements, campus news, and student graduation projects.
 
 ## [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
