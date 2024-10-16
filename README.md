@@ -13,7 +13,7 @@ Full stack server enables the publication and management of data such as campus 
 
 - **Support multiple terminals**
 
-- **Update:** on going according to online learning and developing: 09/15/2024
+- **Update:** on going according to online learning and developing: 09/18/2024
 
 ### Explanation
 
@@ -39,5 +39,7 @@ Backend based on: [online course](https://www.bilibili.com/video/BV1wh411y7T1?p=
 - 09/08/2024: create graduation app
 
 - 09/14/2024: create workflow for graduation work
+
+- 09/18/2024: update Nginx server with js
   
 ## No Commercial Use, Django Framework Practice Only.
