@@ -164,7 +164,7 @@ def build(master=None, initialcolor=None, initfile=None, ignore=None,
         green = optiondb.get('GREEN')
         blue = optiondb.get('BLUE')
         # but if there wasn't any stored in the database, use grey50
-        if red is None or blue is None or green is None:
+        if not red or not green or not blue:
             red, green, blue = initial_color('grey50', colordb)
     else:
         red, green, blue = initial_color(initialcolor, colordb)
